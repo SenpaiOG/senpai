@@ -1,2 +1,2 @@
 # senpai
-First Website :P
+work in progress :P
